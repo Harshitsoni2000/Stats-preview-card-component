@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
   - Solution URL: [Click to see Solution](https://github.com/Harshitsoni2000/Stats-preview-card-component)
-  - Live Site URL: [Click to see live site](https://your-live-site-url.com)
+  - Live Site URL: [Click to see live site](https://harshitsoni2000.github.io/Stats-preview-card-component/)
 
 ## My process
 
