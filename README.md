@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-  ![On Desktop](ss/ss-Desktop.png)
-  ![On Mobile](ss/ss-mobile.png)
+  ![On Desktop](https://github.com/Harshitsoni2000/Stats-preview-card-component/blob/main/ss/ss-Desktop.PNG)
+  ![On Mobile](https://github.com/Harshitsoni2000/Stats-preview-card-component/blob/main/ss/ss-mobile.PNG)
 
   Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
