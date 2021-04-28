@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-  ![](ss/ss-Desktop.png)
-  ![](ss/ss-mobile.png)
+  ![On Desktop](ss/ss-Desktop.png)
+  ![On Mobile](ss/ss-mobile.png)
 
   Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
