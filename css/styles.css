@@ -37,6 +37,10 @@ h3 {
   font-family: 'Lexend Deca', sans-serif;
 }
 
+.insights {
+  color:hsl(277, 64%, 61%);
+}
+
 .footer-para {
   padding: 0 5%;
 }
